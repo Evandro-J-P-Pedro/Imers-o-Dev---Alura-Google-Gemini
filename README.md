@@ -1,4 +1,4 @@
 # Imerção---Dev---Alura-Google-Gemini
 Eu trabalho com projetos de rede de distribuição de energia elétrica, no início da minha carreira tive uma grande dificuldade de entender as normas vigentes da concessionária de energia do meu estado (CEMIG) e muitas vezes ficava perdido ao tentar encontrar as informações sobre as estruturas e demais equipamentos.
 Pensando nesses momentos de aflição e nos novos projetistas, durante a imersão Dev decidi criar uma aplicação que fosse capaz de reunir uma base de dados simples, mas que direcione usuário a estrutura alvo de pesquisa, bem como ao link e página da norma que consta as informações referentes a pesquisa, normas estas que se encontra no site da concessionária de energia CEMIG, facilitando as buscas e de certa forma ensinando em qual norma cada informação se encontra.
-De uma olhada como está ficando meu projeto, fique à vontade para dar sugestões
+De uma olhada como está ficando meu projeto, fique à vontade para dar sugestões.
