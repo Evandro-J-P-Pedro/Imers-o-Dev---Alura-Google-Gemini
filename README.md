@@ -39,6 +39,9 @@ Até o momento a base de dados é pequena caso queira fazer algum teste de pesqu
 
 **Divirta-se explorando a elétrica com o Wattson!**
 
+**Acesse a aplicação na vercel:**
+https://wattson-seu-guia-em-rda-rdu.vercel.app
+
 **[Evandro J.P. Pedro]**
 
 
