@@ -34,7 +34,7 @@ Manda sugestões, encontra algum bug? Abre uma issue aqui no GitHub! Toda ajuda 
 
 **Aviso:** 
 
-O Wattson ainda tá em construção, então pode ter algum bug por aí. Mas a gente tá trabalhando pra deixar ele cada vez melhor!
+O Wattson ainda está em construção, então pode haver algum bug por aí. Estamos trabalhando pra deixar ele cada vez melhor!
 Até o momento a base de dados é pequena caso queira fazer algum teste de pesquisa, utilize as estrutras CE2, U1 e CEM4.
 
 **Divirta-se explorando a elétrica com o Wattson!**
