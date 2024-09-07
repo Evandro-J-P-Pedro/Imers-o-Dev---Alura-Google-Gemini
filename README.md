@@ -1,5 +1,5 @@
 
- #Imersão---Dev---Alura-Google-Gemin
+ #Imersão Dev Alura e Google Gemini
 
  **Wattson: Seu guia em RDA/RDU**
 
