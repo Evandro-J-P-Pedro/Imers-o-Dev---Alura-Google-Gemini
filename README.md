@@ -1,6 +1,6 @@
- ** Imerção---Dev---Alura-Google-Gemini**
+ ###** Imerção---Dev---Alura-Google-Gemini**###
 
-### **Wattson: Seu guia em RDA/RDU **
+### **Wattson: Seu guia em RDA/RDU ** ###
 
 **De onde surgiu a ideia?**
 Eu trabalho com projetos de rede de distribuição de energia elétrica a um certo tempo,e no início da minha carreira tive uma grande dificuldade de entender as normas vigentes da concessionária de energia do meu estado (CEMIG) e muitas vezes ficava perdido ao tentar encontrar as informações sobre as estruturas e demais equipamentos.
